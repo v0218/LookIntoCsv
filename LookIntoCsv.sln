@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LookIntoCsv", "LookIntoCsv\LookIntoCsv.vbproj", "{DDC4D522-985A-4DB4-999E-CB65041E1981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC4D522-985A-4DB4-999E-CB65041E1981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC4D522-985A-4DB4-999E-CB65041E1981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC4D522-985A-4DB4-999E-CB65041E1981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC4D522-985A-4DB4-999E-CB65041E1981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834AB067-7710-42A4-8763-0DFEA707F42D}
+	EndGlobalSection
+EndGlobal
