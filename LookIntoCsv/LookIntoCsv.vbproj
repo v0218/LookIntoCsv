@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context.vb" />
+    <Compile Include="Core\LoadEnMemoire.vb" />
+    <Compile Include="Core\SequenceAttribute.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
